@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charakanugami.netlify.app/sitemap.xml
